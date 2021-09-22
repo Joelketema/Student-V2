@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632333348 source:d:\class project\student v_1.2\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<stdio.h>
+	<cstdio>
+
+1632333351 source:d:\class project\student v_1.2\resources.rc
+
