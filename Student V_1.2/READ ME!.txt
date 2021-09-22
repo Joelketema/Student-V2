@@ -1,0 +1,20 @@
+Student Managment console software Version 2, Now Equipped with File managment and more new features.
+
+
+Section C Group 3
+
+Group members information can be found inside the programm or 
+1. Eyuel Ketema				ETS0280/12
+2. Ermias Tiruneh			ETS0251/12
+3. Estifanos Gashawtena			ETS0260/12
+4. Ermias Siraye			ETS0253/12
+5. Mintesnot Markos			ETS1025/12
+
+NOTE: PLEASE INCLUDE/DON'T DELETE THE "adminInfo.txt" file in the folder since it crucial to the running of the program.
+it has a saved in password and username for first login.
+
+
+you can also download this software from "https://joelketema.github.io/Submission-page/"
+THANK YOU FOR USING THIS SOFTWARE!!
+
+
